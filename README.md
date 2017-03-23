@@ -8,8 +8,23 @@ Drunk_player est composé :
 - d'un programme graphique
 - d'un programme console
 
+##Dépendances
+- OpenCV
+- Boost
+
+##Compilation
 ```
 mkdir build
+cd build
+cmake ..
+make
 ```
+
+##Utilisation
+```
+./drunk_player_gui.out ../data/
+```
+
 [google](http://www.google.com/)
+
 ![](drunk_player_gui.png]

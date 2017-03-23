@@ -8,11 +8,11 @@ Drunk_player est composé :
 - d'un programme graphique
 - d'un programme console
 
-##Dépendances
+## Dépendances
 - OpenCV
 - Boost
 
-##Compilation
+## Compilation
 ```
 mkdir build
 cd build
@@ -20,7 +20,7 @@ cmake ..
 make
 ```
 
-##Utilisation
+## Utilisation
 ```
 ./drunk_player_gui.out ../data/
 ```
